@@ -28,7 +28,7 @@ Si eres estudiante, colega o simplemente te gusta la informática, ¡espero que 
 
 ¿Prefieres aprender con videotutoriales o ver mis explicaciones sobre desarrollo y programación? Te invito a visitar mi canal donde comparto contenido adicional, demos y consejos prácticos.
 
-👉 **Suscríbete aquí:** [Tu Canal de YouTube](https://www.youtube.com/@ResuaCode)
+👉 **Suscríbete aquí:** [ResuaCode](https://www.youtube.com/@ResuaCode)
 
 ---
 
