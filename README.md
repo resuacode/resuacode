@@ -26,7 +26,8 @@ Si eres estudiante, colega o simplemente te gusta la informática, ¡espero que 
 
 ### 📺 ¡Más contenido en mi Canal de YouTube!
 
-¿Prefieres aprender con videotutoriales o ver mis explicaciones sobre desarrollo y programación? Te invito a visitar mi canal donde comparto contenido adicional, demos y consejos prácticos.
+También puedes echarle un ojo a los vídeos que he ido subiendo a Youtube sobre el contenido de varios de los módulos que he impartido.
+Te invito a visitar el canal donde comparto contenido adicional, demos y consejos prácticos.
 
 👉 **Suscríbete aquí:** [ResuaCode](https://www.youtube.com/@ResuaCode)
 
@@ -38,18 +39,3 @@ Si eres estudiante, colega o simplemente te gusta la informática, ¡espero que 
 ¡A programar!
 
 😄
-
-<!--
-**resuadam2/resuadam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
